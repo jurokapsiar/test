@@ -16,3 +16,5 @@
 |semantic||https://github.com/Semantic-Org/Semantic-UI/blob/master/dist/components/input.css
 |spectrum||https://github.com/adobe/spectrum-css/blob/master/components/textfield/index.css|
 |w3|n/a||
+
+Most of the design systems / libraries do not have a generic name for the outer-most slot.
